@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\solZadatak\Zadatak\bin\Debug\Zadatak.exe.config
+C:\Users\DELL\Desktop\solZadatak\Zadatak\bin\Debug\Zadatak.exe
+C:\Users\DELL\Desktop\solZadatak\Zadatak\bin\Debug\Zadatak.pdb
+C:\Users\DELL\Desktop\solZadatak\Zadatak\obj\Debug\Zadatak.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\solZadatak\Zadatak\obj\Debug\Zadatak.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\solZadatak\Zadatak\obj\Debug\Zadatak.exe
+C:\Users\DELL\Desktop\solZadatak\Zadatak\obj\Debug\Zadatak.pdb
