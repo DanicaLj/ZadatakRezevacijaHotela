@@ -12,7 +12,7 @@ namespace Zadatak
         static void Main(string[] args)
         {
 
-            int[,] mat = new int[20, 20];
+            int[,] mat = new int[1000, 365];
 
 
             Console.WriteLine("Number of rooms: ");
